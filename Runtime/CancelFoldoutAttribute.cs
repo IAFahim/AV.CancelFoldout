@@ -1,8 +1,6 @@
 using System.Diagnostics;
 using UnityEngine;
 
-[HelpURL("https://github.com/IAFahim/AV.CancelFoldout")]
-
 namespace AV.CancelFoldout.Runtime
 {
     /// <summary>
@@ -15,6 +13,7 @@ namespace AV.CancelFoldout.Runtime
     ///         <item>[Inline] - Alias for flat inline mode (cleaner syntax)</item>
     ///     </list>
     /// </summary>
+    [HelpURL("https://github.com/IAFahim/AV.CancelFoldout")]
     public class CancelFoldoutAttribute : PropertyAttribute
     {
         public readonly bool CanToggle;

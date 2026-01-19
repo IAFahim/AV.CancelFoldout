@@ -4,10 +4,9 @@ using AV.CancelFoldout.Runtime;
 using UnityEditor;
 using UnityEngine;
 
-[HelpURL("https://github.com/IAFahim/AV.CancelFoldout")]
-
 namespace AV.CancelFoldout.Editor
 {
+    [HelpURL("https://github.com/IAFahim/AV.CancelFoldout")]
     [CustomPropertyDrawer(typeof(CancelFoldoutAttribute))]
     [CustomPropertyDrawer(typeof(InlineAttribute))]
     public class CancelFoldoutPropertyDrawer : PropertyDrawer
