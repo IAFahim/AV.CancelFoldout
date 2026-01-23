@@ -1,9 +1,9 @@
 {
   "name": "com.av.cancelfoldout",
-  "displayName": "AV Cancel Foldout",
   "version": "2.3.0",
-  "unity": "2021.3",
+  "displayName": "AV Cancel Foldout",
   "description": "Property drawer enhancement that adds cancel button to foldout groups in Unity Inspector.",
+  "unity": "2022.3",
   "author": {
     "name": "IAFahim",
     "email": "iafahim.dev@gmail.com",
@@ -29,6 +29,5 @@
     "type": "git",
     "url": "https://github.com/IAFahim/AV.CancelFoldout"
   },
-  "licensesUrl": "https://github.com/IAFahim/AV.CancelFoldout/blob/main/LICENSE.md",
-  "_fingerprint": "d965f1311f2a5b408a1225be8153b816b5edc4fc"
+  "licensesUrl": "https://github.com/IAFahim/AV.CancelFoldout/blob/main/LICENSE.md"
 }
